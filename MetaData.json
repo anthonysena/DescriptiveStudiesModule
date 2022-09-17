@@ -1,6 +1,6 @@
 {
   "Name": "DescriptiveStudiesModule",
-  "Version": "0.0.1",
+  "Version": "0.0.1-11",
   "Dependencies": ["CohortGeneratorModule"],
   "TablePrefix": "c_"
 }
